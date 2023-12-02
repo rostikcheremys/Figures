@@ -1,0 +1,14 @@
+D:\Programming\C#\Figures\Program\Program\bin\Debug\net8.0-windows\Program.exe
+D:\Programming\C#\Figures\Program\Program\bin\Debug\net8.0-windows\Program.deps.json
+D:\Programming\C#\Figures\Program\Program\bin\Debug\net8.0-windows\Program.runtimeconfig.json
+D:\Programming\C#\Figures\Program\Program\bin\Debug\net8.0-windows\Program.dll
+D:\Programming\C#\Figures\Program\Program\bin\Debug\net8.0-windows\Program.pdb
+D:\Programming\C#\Figures\Program\Program\obj\Debug\net8.0-windows\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Figures\Program\Program\obj\Debug\net8.0-windows\Program.AssemblyInfoInputs.cache
+D:\Programming\C#\Figures\Program\Program\obj\Debug\net8.0-windows\Program.AssemblyInfo.cs
+D:\Programming\C#\Figures\Program\Program\obj\Debug\net8.0-windows\Program.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Figures\Program\Program\obj\Debug\net8.0-windows\Program.dll
+D:\Programming\C#\Figures\Program\Program\obj\Debug\net8.0-windows\refint\Program.dll
+D:\Programming\C#\Figures\Program\Program\obj\Debug\net8.0-windows\Program.pdb
+D:\Programming\C#\Figures\Program\Program\obj\Debug\net8.0-windows\Program.genruntimeconfig.cache
+D:\Programming\C#\Figures\Program\Program\obj\Debug\net8.0-windows\ref\Program.dll
